@@ -1,2 +1,1 @@
-# tarmo
-friends
+just a useless thing
